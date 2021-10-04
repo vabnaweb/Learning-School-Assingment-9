@@ -1,0 +1,39 @@
+.card-container img{
+    height: 150px;
+    width:150px;
+    
+    margin-top: 5px;
+    margin-left: 75px;
+  
+}
+.card-container{
+    width: 300px;
+    
+
+}
+.card-title{
+    font-weight: bolder;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(6, 2, 46);
+}
+.course{
+    font-weight: bold;
+    font-style: italic;
+}
+.teacher{
+    color: rgb(231, 106, 106)
+    ;
+}
+.enroll{
+    font-weight: bolder;
+    color:rgb(4, 4, 63) ;
+}
+.btn-clr{
+    background-image:linear-gradient(rgb(3, 3, 41),rgb(0, 217, 255));
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+
+}

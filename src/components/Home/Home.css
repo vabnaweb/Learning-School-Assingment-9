@@ -1,0 +1,28 @@
+.home-body{
+    background-color: rgb(219, 240, 240);
+}
+.img-size{
+    height: 550px;
+    width: 550px;
+}
+.title{
+    color: rgb(7, 2, 2);
+    font-style: italic;
+    font-weight: bolder;
+}
+.courses{
+    border:2px solid black;
+}
+
+.website-name{
+    font-weight: 50px;
+    font-style: italic;
+
+    color:rgb(3, 3, 36);
+    background-color: rgb(216, 228, 233);
+
+
+}
+.design-card{
+    margin-bottom:5px ;
+}

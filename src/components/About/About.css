@@ -1,0 +1,24 @@
+.card-design{
+  margin-left: 400px;
+ 
+ 
+}
+.card-design img{
+    width: 650px;
+    height: 350px;
+    margin-left:75px ;
+}
+.mission{
+    background-color: rgb(235, 241, 241);
+    margin-top: 35px;
+    padding-bottom: 15px;
+}
+.body-style{
+    background-color: rgb(231, 200, 190);
+}
+.important-details{
+    color: blueviolet;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
